@@ -2,7 +2,4 @@
 
 ### :round_pushpin: **ÍNDICE** :round_pushpin:
 
-#### [:pushpin:](practica1/Windows/requerimientos/README.md) **Requerimientos del Sistema operativo Windows 11**
-#### [:pushpin:](practica1/requerimientosUbuntu/README.md) **Requerimientos para Ubuntu Desktop 22.04**
-#### [:pushpin:](practica1/parametrosNecesarios/README.md) **Parámetros necesarios en VirtualBox**
-#### [:pushpin:](practica1/parametrosDefinidos/README.md) **Parámetros definidos en VirtualBox**
+#### [:pushpin:](practica1/Windows/requerimientos/README.md) **Práctica-1**
