@@ -2,7 +2,8 @@
 
 | Hardware | Requisito |
 |--------------------|------------|
-| CPU | 1 GHz y 2 núcleos |
+| CPU (Especificaciones) | 1 GHz y 2 núcleos |
+| CPU (Compatibles) |[ver](https://learn.microsoft.com/es-es/windows-hardware/design/minimum/windows-processor-requirements) |
 | RAM | 4GB (disponibles) |
 | Almacenamiento | 64GB (disponibles) |
 | Firmware | (UEFI) |
