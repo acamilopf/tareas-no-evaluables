@@ -4,9 +4,9 @@
 |--------------------|------------|
 | CPU | 1 GHz y 2 núcleos |
 | RAM | 4GB (disponibles) |
-| Almacenamiento | (64GB) |
+| Almacenamiento | 64GB (disponibles) |
 | Firmware | (UEFI) |
-| TPM | (versión 2.0) |
+| TPM | Versión (2.0) |
 | Tarjeta Gráfica: | Compatibilidad con DirectX 12 con controlador WDDM 2.0 |
-| Monitor: | 1 |
-| Conectividad a internet: |  |
+| Monitor: | HD (720p) con resolución 9" |
+| Conectividad a internet y cuenta de Microsoft: | ¡IMPORTANTE! |
