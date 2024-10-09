@@ -2,4 +2,4 @@
 
 ### :round_pushpin: **ÍNDICE** :round_pushpin:
 
-#### [:pushpin:](practica1/Windows/requerimientos/README.md) **Práctica-1**
+#### [:pushpin:](practica1) **Práctica-1**
