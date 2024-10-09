@@ -12,4 +12,4 @@
 | Conectividad a internet y cuenta de Microsoft | ¡IMPORTANTE! |
 #
 
-# [FUENTE](https://support.microsoft.com/es-es/windows/requisitos-del-sistema-de-windows-11-86c11283-ea52-4782-9efd-7674389a7ba3) Fuente
+# [:pushpin:](https://support.microsoft.com/es-es/windows/requisitos-del-sistema-de-windows-11-86c11283-ea52-4782-9efd-7674389a7ba3) Fuente
