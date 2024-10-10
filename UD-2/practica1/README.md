@@ -1,6 +1,6 @@
-### :round_pushpin: **ÍNDICE DE APARTADOS** :round_pushpin:
+| :round_pushpin: **ÍNDICE DE APARTADOS** :round_pushpin: | [:leftwards_arrow_with_hook:](..) Volver |
+|---------------------------------------------------------|------------------------------------------|
+| Windows | [:pushpin:](Windows/README.md) |
+| Ubuntu | [:pushpin:](Ubuntu/README.md) |
 
-### [:pushpin:](Windows/README.md) Windows
-### [:pushpin:](Ubuntu/README.md) Ubuntu
-
-### [:leftwards_arrow_with_hook:](..) Volver
+### 
