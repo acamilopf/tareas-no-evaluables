@@ -1,11 +1,4 @@
-### REQUERIMIENTOS MÍNIMOS
+### :round_pushpin: **ÍNDICE DE APARTADOS** :round_pushpin:
 
-| Hardware | Requisito |
-|--------------------|------------|
-| CPU | 2 GHz y 2 núcleos|
-| RAM | 4GB (disponibles) |
-| Almacenamiento | 25GB (disponibles) |
-| Conectividad a internet | ¡IMPORTANTE! |
-###
-
-### [:pushpin:](https://ubuntu.com/download/desktop#system-requirements) Fuente
+### [:pushpin:](requerimientos/README.md) Windows
+### [:pushpin:](parametros/README.md) Ubuntu
