@@ -8,4 +8,4 @@
 | Conectividad a internet | ¡IMPORTANTE! |
 ###
 
-### [:pushpin:](https://ubuntu.com/download/desktop#system-requirements) Fuente
+### [:pushpin:](https://ubuntu.com/download/desktop#system-requirements) **Fuente** **Volver** [:leftwards_arrow_with_hook:](..)
