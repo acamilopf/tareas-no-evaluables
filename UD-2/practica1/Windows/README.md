@@ -2,5 +2,3 @@
 |---------------------------------------------------------|------------------------------------------|
 | **Requerimientos** | [:pushpin:](requerimientos/README.md) |
 | **Parámetros** | [:pushpin:](parametros/README.md) |
-
-### 
