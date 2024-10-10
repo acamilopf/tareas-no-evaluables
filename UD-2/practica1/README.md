@@ -1,4 +1,4 @@
 ### :round_pushpin: **ÍNDICE DE APARTADOS** :round_pushpin:
 
-### [:pushpin:](requerimientos/README.md) Windows
-### [:pushpin:](parametros/README.md) Ubuntu
+### [:pushpin:](Windows/README.md) Windows
+### [:pushpin:](Ubuntu/README.md) Ubuntu
