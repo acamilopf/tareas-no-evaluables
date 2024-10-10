@@ -1,6 +1,6 @@
-### REQUERIMIENTOS MÍNIMOS
+### PARÁMETROS DEFINIDOS
 
-| Hardware | Requisito |
+| Hardware | Cantidad |
 |--------------------|------------|
 | CPU | 2 GHz y 2 núcleos|
 | RAM | 4GB (disponibles) |
