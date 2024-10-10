@@ -3,4 +3,4 @@
 ### [:pushpin:](Windows/README.md) Windows
 ### [:pushpin:](Ubuntu/README.md) Ubuntu
 
-### [:pushpin:](..) Volver
+### [:leftwards_arrow_with_hook:](..) Volver
