@@ -17,4 +17,4 @@
 #### **Almacenamiento | Decido asignarle 128GB ya que lo mínimo son 64GB y en nuestros ordenadores tenemos 1TB, por lo tanto podemos permitirnos definir el doble de lo requerido mínimo.**
 
 #### **TPM | Decido asignarle la versión del TPM 2.0 ya que es la mas moderna, aunque pueda poner versiones anteriores.**
-#### [:leftwards_arrow_with_hook:](..) Volver
+#### [:leftwards_arrow_with_hook:](..) *Volver*
