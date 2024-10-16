@@ -8,7 +8,7 @@
 ####
 ### El proceso de arranque se inicia cuando la BIOS hace pruebas iniciales y luego le da el control al (MBR) registro de arranque master, donde esta el gestor de arranque.
 ####
-## ¿Cómo prosigue el gestor de arranque?
+### ¿Cómo prosigue el gestor de arranque?
 ####
 ### Paso 1: En algunas ocasiones, le muestra al Usuario uan interfaz para poder elegir el sistema operativo o la configuración de inicio que el Usuario quiera.
 ### Paso 2: Carga el sistema operativo cargado anteriormente en la memoria RAM y sus componentes.
