@@ -30,3 +30,5 @@
 ####
 #### Paso 10:
 ![img](../img/paso6.png)
+
+*Volver* [:leftwards_arrow_with_hook:](..)
