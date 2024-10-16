@@ -19,4 +19,6 @@
 #### Paso 6: Y listo, ya estaríamos en la interfaz de las particiones de discos
 ![img](../img/paso6.png)
 
+#
+
 *Volver* [:leftwards_arrow_with_hook:](..)
