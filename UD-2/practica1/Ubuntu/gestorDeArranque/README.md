@@ -12,3 +12,5 @@
 ####
 ### Paso 1: En algunas ocasiones, le muestra al Usuario uan interfaz para poder elegir el sistema operativo o la configuración de inicio que el Usuario quiera.
 ### Paso 2: Carga el sistema operativo cargado anteriormente en la memoria RAM y sus componentes.
+
+### [:pushpin:](https://ubuntu.com/download/desktop#system-requirements) **Fuente**  [:leftwards_arrow_with_hook:](..) **Volver**
