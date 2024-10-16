@@ -10,4 +10,4 @@
 #### En algunas ocasiones, le muestra al Usuario uan interfaz para poder elegir el sistema operativo o la configuración de inicio que el Usuario quiera
 #### Carga el sistema operativo cargado anteriormente en la memoria RAM y sus componentes.
 
-### [:leftwards_arrow_with_hook:](..) **Volver**
+### [:leftwards_arrow_with_hook:](..) *Volver*
