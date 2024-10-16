@@ -23,10 +23,6 @@
 ## Dentro de VirtualBox
 ####
 ![img](../img/parametros.png)
-
-
-
-
-
+####
 
 #### [:leftwards_arrow_with_hook:](..) *Volver*
