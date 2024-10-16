@@ -1,10 +1,10 @@
 # 💻 Gestor de Arranque 💻
 
-## ¿Qué es?
+### ¿Qué es?
 ####
 ### Es un software que se encarga de arrancar el sistema operativo en la memoria RAM de un equipo cuando este mismo se prende o reinicia. Tiene como función preparar el entorno para que el S.O funcione correctamente.
 
-## ¿Cómo funciona?
+### ¿Cómo funciona?
 ####
 ### El proceso de arranque se inicia cuando la BIOS hace pruebas iniciales y luego le da el control al (MBR) registro de arranque master, donde esta el gestor de arranque.
 ####
