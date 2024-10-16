@@ -19,4 +19,14 @@
 #### **TPM | Decido asignarle la versión del TPM v2.0 ya que es la mas moderna.**
 
 #### **Placa Base | Decido asignarle 2300 MB ya que sería casi mi límite para asignarle antes de que el ordenador me de problemas.**
+
+## Dentro de VirtualBox
+####
+![img](../img/parametros.png)
+
+
+
+
+
+
 #### [:leftwards_arrow_with_hook:](..) *Volver*
