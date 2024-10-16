@@ -31,4 +31,6 @@
 #### **Paso 10: Nos mostrará un cartel diciendo que tenemos que retirar el medio, a lo que escribiremos en pantalla "confirm".**
 ![img](img/paso10.png)
 
+#
+
 *Volver* [:leftwards_arrow_with_hook:](..)
