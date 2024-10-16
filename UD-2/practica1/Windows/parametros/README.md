@@ -6,7 +6,7 @@
 | **Almacenamiento** | **128GB** |
 | **TPM** | **Versión (2.0)**|
 
-###
+####
 
 ## **¿Por qué?**
 
