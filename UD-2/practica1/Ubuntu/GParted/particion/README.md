@@ -13,7 +13,7 @@
 #### **Paso 4: Ya que tengo 80GB en dicha máquina, asignaré 50GB en (Tamaño nuevo) que es con lo que se quedará Windows 11 y dejaré libres 30GB para la instalación de Ubuntu. Seleccionamos < Redimensionar/mover >.**
 ![img](img/paso4.png)
 ####
-#### **Paso 5: Asi quedarían las particiones creadas.**
+#### **Paso 5: Asi quedarían las particiones creadas. Seleccionamos el tilde en verde, que se resalta con la flecha roja.**
 ![img](img/paso5.png)
 ####
 #### **Paso 6: Y nos saldrá esta ventana, donde seleccionaremos < Apply >.**
